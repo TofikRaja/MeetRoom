@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://meetroombackend-ek2m.onrender.com" :
+    "https://meetroombackend-a3ww.onrender.com" :
 
     "http://localhost:5000"
 
